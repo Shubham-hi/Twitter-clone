@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Click here ---> [Live Project Link](https://twitter-clone122.netlify.app)
+# Click here ---> [Live Project Link](https://twitter-clone122.netlify.app)🔗
 
 ## Available Scripts
 
